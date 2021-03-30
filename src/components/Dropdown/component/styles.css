@@ -28,7 +28,7 @@
     border-width: 0 5px 5px;
   }
   
-  .dropdown .selected-value {
+  .dropdown .selected-value input{
     line-height: 1.5;
     font-size: 1rem;
     background-color: #fff;
