@@ -1,0 +1,41 @@
+.btn {
+    text-decoration: none;
+    list-style: none;
+    color: black;
+    /* background-color: brown; */
+    width: fit-content;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin: 20px;
+    border: none;
+}
+
+.btn-disabled {
+    cursor: not-allowed;
+}
+
+.btn:hover {
+    transform: translateY(-2px)
+}
+
+.btn-list {
+    border: 1px solid #000
+}
+
+.btn-danger {
+    background-color: #d50000;
+    color: #fff;
+}
+
+.btn-info {
+    background-color: rgb(0, 255, 60);
+    color: #000;
+}
+
+.btn-padding-m {
+    padding: 10px 20px;
+}
+.btn-padding-l {
+    padding: 15px 30px;
+}
