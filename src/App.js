@@ -4,7 +4,8 @@ import './App.css';
 // Component
 // import Dropdown from './components/Dropdown';
 // import Button from './components/button';
-import Calculator from './components/calculator';
+// import Calculator from './components/calculator';
+import Form from './components/form';
 
 function App() {
   return (
@@ -13,7 +14,8 @@ function App() {
       {/* <Dropdown />
       <br />
       <Button /> */}
-      <Calculator />
+      {/* <Calculator /> */}
+      <Form />
     </div>
   );
 }
